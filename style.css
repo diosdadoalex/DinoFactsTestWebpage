@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	height: 150px;
+	background: url('dinotrack.jpg') repeat-x;
+	text-align: center;
+	font-size: 30pt;
+}
+
+#content {
+	margin: 300px;
+	background-color: #F3E1A5;
+	border:  1px solid #999;
+	font-size:  14pt;
+}
+
+#footer {
+	height: 50px;
+	text-align:  center;
+	font-size:  10pt;
+}
+
+#content p {
+	margin:  20px;
+}
